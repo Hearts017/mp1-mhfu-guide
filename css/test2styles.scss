@@ -1,0 +1,85 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.background-mhfu {
+    background-image: url("../img/mhfu_background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.nav-item:hover {
+    background-color: rgb(235, 216, 153);
+  }
+
+.trailer-bck {
+    background-image: url("../img/heading_background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.item-bck {
+    background-image: url("../img/heading_background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.maps-map {
+    width: 70%;
+}
+
+body {
+    background-image: url("../img/background.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+.maps-font {
+    color: white;
+}
+
+.map-background {
+    background-image: url("../img/heading_background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+
+.para-color {
+    color: white;
+}
+
+.background-clr {
+    background-color: black;
+}
+
+.itm-hvr:hover {
+    color:rgb(36, 105, 233)
+}
+
+.img-sizes {
+    width: 100%;
+    height: auto;
+}
+
+.maps-res {
+    width: 100%;
+    height: auto;
+}
+
+.fnt-mps {
+    font-size: 0.75rem;
+}
